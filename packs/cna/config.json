@@ -1,6 +1,6 @@
 {
   "examId": "cna",
-  "brandName": "Health Beacon",
+  "brandName": "CNA Exam Simulator",
   "theme": "dark",
   "logoPath": "../packs/cna/assets/logo.png?v=1",
   "accessPassword": "CNAPREP",
@@ -18,7 +18,9 @@
       "examQuestions": 70,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+        "cna_exam_01.json"
+      ]
     }
   ],
   "printables": []

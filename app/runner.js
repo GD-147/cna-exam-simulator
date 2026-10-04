@@ -33,6 +33,11 @@ function normalizeQuestion(q) {
     ...q,
     prompt: decodeHtmlEntitiesDeep(q.prompt || ""),
     explanation: decodeHtmlEntitiesDeep(q.explanation || ""),
+    domain: q.domain || "",
+    category: q.category || "",
+    unscored: q.unscored === true,
+    scenarioBased: q.scenarioBased === true,
+    scenarioContext: decodeHtmlEntitiesDeep(q.scenarioContext || ""),
     choices
   };
 }
@@ -322,17 +327,23 @@ if (metaEl) metaEl.textContent = metaText;
 
     const elapsedSec = Math.floor((Date.now() - startTime) / 1000);
 
+    const scoredSessionQs = mode === "practice"
+      ? sessionQs
+      : sessionQs.filter(q => !q.unscored);
+
     let correct = 0;
-    sessionQs.forEach(q => {
+    scoredSessionQs.forEach(q => {
       if ((answers[q.id] || "") === q.correct) correct++;
     });
 
-    const pct = Math.round((correct / sessionQs.length) * 100);
+    const pct = scoredSessionQs.length
+      ? Math.round((correct / scoredSessionQs.length) * 100)
+      : 0;
 
     qs("runnerPanel").classList.add("hidden");
     qs("resultsPanel").classList.remove("hidden");
 
-    qs("scoreLine").textContent = `Score: ${pct}% (${correct}/${sessionQs.length} correct)`;
+    qs("scoreLine").textContent = `Score: ${pct}% (${correct}/${scoredSessionQs.length} correct)`;
     qs("timeLine").textContent = `Time used: ${fmtTime(elapsedSec)}`;
 
     const review = qs("review");
