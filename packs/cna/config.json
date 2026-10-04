@@ -23,5 +23,10 @@
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "CNA Practice Exam 01",
+      "file": "cna_exam_01.pdf"
+    }
+  ]
 }
