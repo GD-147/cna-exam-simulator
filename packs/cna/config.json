@@ -2,7 +2,7 @@
   "examId": "cna",
   "brandName": "CNA Exam Simulator",
   "theme": "dark",
-  "logoPath": "../packs/cna/assets/logo.png?v=1",
+  "logoPath": "../packs/cna/assets/logo.png?v=2",
   "accessPassword": "CNAPREP",
   "practiceChunkSize": 10,
   "nav": [
