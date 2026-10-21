@@ -19,7 +19,21 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "cna_exam_01.json"
+        "cna_exam_01.json",
+        "cna_exam_02.json",
+        "cna_exam_03.json",
+        "cna_exam_04.json",
+        "cna_exam_05.json",
+        "cna_exam_06.json",
+        "cna_exam_07.json",
+        "cna_exam_08.json",
+        "cna_exam_09.json",
+        "cna_exam_10.json",
+        "cna_exam_11.json",
+        "cna_exam_12.json",
+        "cna_exam_13.json",
+        "cna_exam_14.json",
+        "cna_exam_15.json"
       ]
     }
   ],
@@ -27,6 +41,62 @@
     {
       "label": "CNA Practice Exam 01",
       "file": "cna_exam_01.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 02",
+      "file": "cna_exam_02.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 03",
+      "file": "cna_exam_03.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 04",
+      "file": "cna_exam_04.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 05",
+      "file": "cna_exam_05.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 06",
+      "file": "cna_exam_06.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 07",
+      "file": "cna_exam_07.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 08",
+      "file": "cna_exam_08.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 09",
+      "file": "cna_exam_09.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 10",
+      "file": "cna_exam_10.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 11",
+      "file": "cna_exam_11.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 12",
+      "file": "cna_exam_12.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 13",
+      "file": "cna_exam_13.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 14",
+      "file": "cna_exam_14.pdf"
+    },
+    {
+      "label": "CNA Practice Exam 15",
+      "file": "cna_exam_15.pdf"
     }
   ]
 }

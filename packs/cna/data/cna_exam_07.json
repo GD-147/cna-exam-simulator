@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "CNA07-001",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Remove the detector's battery for the rest of the shift",
+      "B": "Cover the detector with a towel to stop the sound",
+      "C": "Ignore the chirping because no smoke is visible",
+      "D": "Keep the detector unobstructed and report the chirping promptly"
+    },
+    "correct": "D",
+    "explanation": "Repeated chirping may indicate that fire-safety equipment needs attention. The aide preserves detector function and reports it rather than removing a battery, covering it, or ignoring it.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A ceiling-mounted smoke detector in a resident's room begins chirping at regular intervals, but there is no smoke or fire odor."
+  },
+  {
+    "id": "CNA07-002",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Tell the resident that relatives must always be admitted",
+      "B": "Ask the visitor to enter briefly and change the resident's mind",
+      "C": "Have the roommate decide whether the visit should occur",
+      "D": "Respect the resident's choice and follow the facility process for declining the visit"
+    },
+    "correct": "D",
+    "explanation": "A resident may accept or refuse visitors. The aide honors the decision and uses the facility process rather than allowing others to override it.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Client Rights",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A relative arrives to visit, but the resident says, \"I do not want to see anyone today.\""
+  },
+  {
+    "id": "CNA07-003",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Cut the sleeves shorter without permission",
+      "B": "Ask permission and secure the sleeves comfortably above the wrists",
+      "C": "Tie both sleeves behind the resident's back",
+      "D": "Ignore the sleeves until the meal is over"
+    },
+    "correct": "B",
+    "explanation": "Moving loose sleeves away from food supports cleanliness and comfort while preserving the resident's clothing. Cutting, restraining, or ignoring the fabric is inappropriate.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident's long sleeves keep brushing the food tray during lunch."
+  },
+  {
+    "id": "CNA07-004",
+    "prompt": "What is the nurse aide's best response?",
+    "choices": {
+      "A": "Tell the resident that nervousness means the speech should be canceled",
+      "B": "Listen, offer to help the resident practice, and respect the final choice",
+      "C": "Promise that every person in the audience will approve",
+      "D": "Write a speech and arrange for another resident to deliver it"
+    },
+    "correct": "B",
+    "explanation": "Listening and optional practice support confidence without pressure or unrealistic promises. The resident remains in control of participation.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Emotional and Mental Health Needs",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident wants to speak at the resident council for the first time but says, \"I am afraid I will freeze.\""
+  },
+  {
+    "id": "CNA07-005",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Report the problem and poor intake to nursing and dietary staff",
+      "B": "Puree the meal in the unit blender without an order",
+      "C": "Choose a replacement diet and request it directly under the nurse's name",
+      "D": "Record complete meal intake because the resident received a tray"
+    },
+    "correct": "A",
+    "explanation": "A broken dental appliance can interfere with eating. Objective reporting allows the appropriate team members to assess and arrange safe nutrition support.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Member of the Health Care Team",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "A resident leaves most of lunch untouched because a dental bridge broke that morning."
+  },
+  {
+    "id": "CNA07-006",
+    "prompt": "What should a nurse aide do with a single-use sterile item whose package seal is already open?",
+    "choices": {
+      "A": "Wipe the item with disinfectant and use it immediately",
+      "B": "Use it only for a resident who has no open skin",
+      "C": "Close the package with tape and return it to storage",
+      "D": "Remove it from use and obtain an item in an intact package"
+    },
+    "correct": "D",
+    "explanation": "An open seal means sterility cannot be assumed. The aide replaces the item instead of attempting to restore or reuse it.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": true,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-007",
+    "prompt": "How should the nurse aide assist?",
+    "choices": {
+      "A": "Open every bottle before the resident tries",
+      "B": "Replace the bottle with an unlabeled pump container",
+      "C": "Hold the resident's wrist while turning the cap",
+      "D": "Set up the trained items and let the resident perform the skill"
+    },
+    "correct": "D",
+    "explanation": "Setting up the trained adaptation lets the resident use an existing one-handed skill. Taking over or improvising equipment would reduce independence or safety.",
+    "domain": "Physical Care Skills",
+    "category": "Self Care/Independence",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident has learned to use a nonslip mat to hold a lotion bottle while opening the cap with one hand."
+  },
+  {
+    "id": "CNA07-008",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Pull the waistband tighter so it cannot move",
+      "B": "Straighten the waistband and ask whether it feels comfortable",
+      "C": "Cut the elastic without asking the resident",
+      "D": "Leave it twisted until the next clothing change"
+    },
+    "correct": "B",
+    "explanation": "Correcting the twisted fabric addresses pressure and discomfort while preserving the resident's clothing. Cutting, tightening, or delaying is unnecessary.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "After dressing, a resident says the elastic waistband is twisted and uncomfortable."
+  },
+  {
+    "id": "CNA07-009",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Speak loudly from the doorway without using the device",
+      "B": "Place the working amplifier within reach and speak at a normal pace",
+      "C": "Turn the volume to its highest setting without asking",
+      "D": "Remove the amplifier so the resident practices speaking without it"
+    },
+    "correct": "B",
+    "explanation": "Accessible communication equipment supports the resident's voice. Shouting, excessive volume changes, or removing the device creates barriers.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Communication",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident uses a small voice amplifier during conversations. The device is on the bedside table before morning care."
+  },
+  {
+    "id": "CNA07-010",
+    "prompt": "How should a resident be positioned for a routine seated blood-pressure measurement?",
+    "choices": {
+      "A": "Leaning forward with both feet dangling",
+      "B": "Reclining with one leg crossed over the other",
+      "C": "Perched on the seat edge without back support",
+      "D": "Seated with back supported, feet flat, and legs uncrossed"
+    },
+    "correct": "D",
+    "explanation": "A supported seated posture with flat feet and uncrossed legs reduces avoidable blood-pressure measurement error. Dangling, crossing, or unsupported positioning can affect the reading.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-011",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Hide the sweater until visiting hours",
+      "B": "Support the resident's clothing choice if it is safe and consistent with current care directions",
+      "C": "Ask the roommate to choose between the sweater and the gown",
+      "D": "Require the gown because matching clothing is easier for staff"
+    },
+    "correct": "B",
+    "explanation": "Residents retain choice about personal clothing. Staff convenience or uniform appearance does not replace an individual's safe preference.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Client Rights",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident wants to wear a clean personal sweater, but a staff member prefers that everyone remain in facility gowns."
+  },
+  {
+    "id": "CNA07-012",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Tie the mask tightly so it cannot move overnight",
+      "B": "Cover the resident's ears with the mask to block more sound",
+      "C": "Place the call light beneath the mask strap for easy location",
+      "D": "Help position the mask comfortably and keep the call light accessible"
+    },
+    "correct": "D",
+    "explanation": "A familiar sleep aid may be supported when used safely. Comfort and continued access to assistance remain priorities.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident uses a clean personal sleep mask as part of the bedtime routine."
+  },
+  {
+    "id": "CNA07-013",
+    "prompt": "What is the nurse aide's best response?",
+    "choices": {
+      "A": "Turn on the call so the family can provide reassurance",
+      "B": "Say that appearance does not matter and leave the room",
+      "C": "Acknowledge the resident's feelings, respect the choice, and report continued withdrawal",
+      "D": "Cover the camera and tell the family that the resident is asleep"
+    },
+    "correct": "C",
+    "explanation": "The aide validates the body-image concern without forcing contact or dismissing feelings. Ongoing withdrawal should be shared with the nurse.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Emotional and Mental Health Needs",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "A resident experiencing treatment-related hair loss refuses a planned video call and says, \"I look terrible.\""
+  },
+  {
+    "id": "CNA07-014",
+    "prompt": "What should a nurse aide do when a soiled-linen hamper has reached its marked fill level?",
+    "choices": {
+      "A": "Press the linen down with gloved hands to create space",
+      "B": "Close it according to procedure and obtain a replacement hamper",
+      "C": "Move several items into a resident's laundry bag",
+      "D": "Leave the lid open so the contents can settle"
+    },
+    "correct": "B",
+    "explanation": "Linen should not be compressed or allowed to overflow. Closing and replacing the full hamper limits exposure and supports safe handling.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-015",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Refuse and follow the facility process for reporting misuse of supplies",
+      "B": "Take one box only and replace it on payday",
+      "C": "Divide the gloves among staff so no one benefits more",
+      "D": "Ask a resident to approve removal of the gloves"
+    },
+    "correct": "A",
+    "explanation": "Facility supplies are not personal property. Refusal and proper reporting maintain honesty and accountability.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Legal and Ethical Behavior",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A coworker suggests taking unopened facility gloves home because the unit has extra boxes."
+  },
+  {
+    "id": "CNA07-016",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Use the resident's clean hair clip and check that it is comfortable",
+      "B": "Cut the hair shorter without asking",
+      "C": "Fasten the hair tightly with a rubber band from the supply cart",
+      "D": "Tuck the hair inside the resident's collar"
+    },
+    "correct": "A",
+    "explanation": "A clean personal clip can keep hair away from food while preserving the resident's preferred appearance. Cutting, tight fastening, or tucking hair into clothing is inappropriate.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident with long hair asks to have it kept away from the face during lunch."
+  },
+  {
+    "id": "CNA07-017",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Add water until the color appears normal",
+      "B": "Observe the finding and report it promptly to the nurse",
+      "C": "Discard it without measuring or documenting",
+      "D": "Tell the resident that the color confirms an infection"
+    },
+    "correct": "B",
+    "explanation": "New red urine is an abnormal observation requiring prompt reporting. The aide records facts without diluting the sample or diagnosing a cause.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "While emptying a bedside commode, the nurse aide notices that a resident's urine is red, which is a new finding."
+  },
+  {
+    "id": "CNA07-018",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Give the sealed package directly to the licensed nurse and report its receipt",
+      "B": "Open the package and place the contents in resident drawers",
+      "C": "Administer the medication listed on the outer label",
+      "D": "Leave the package unattended on the dining-room counter"
+    },
+    "correct": "A",
+    "explanation": "Medication handling and administration belong to authorized staff. Direct handoff to the licensed nurse preserves security and team accountability.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Member of the Health Care Team",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A delivery worker hands the nurse aide a sealed medication package addressed to the nursing unit."
+  },
+  {
+    "id": "CNA07-019",
+    "prompt": "How should the nurse aide provide it?",
+    "choices": {
+      "A": "Pour the directed amount into the resident's clean personal cup",
+      "B": "Let the resident drink directly from the shared bottle",
+      "C": "Pour unused rinse from the cup back into the bottle",
+      "D": "Leave the bottle uncapped on the bathroom counter"
+    },
+    "correct": "A",
+    "explanation": "A clean personal cup and directed amount support safe oral care and prevent contamination of the bottle. Unused product is not returned.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident who can rinse and spit asks for the prescribed mouth rinse after oral care."
+  },
+  {
+    "id": "CNA07-020",
+    "prompt": "Which item is generally counted as fluid intake because it is liquid at room temperature?",
+    "choices": {
+      "A": "Toast",
+      "B": "Scrambled egg",
+      "C": "Crackers",
+      "D": "Gelatin"
+    },
+    "correct": "D",
+    "explanation": "Gelatin becomes liquid at room temperature and is generally counted as fluid intake. Solid foods such as toast, eggs, and crackers are not recorded as fluids.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-021",
+    "prompt": "What should the nurse aide do at mealtime?",
+    "choices": {
+      "A": "Cut the entire meal before the resident begins",
+      "B": "Replace the knife with a regular sharp kitchen knife",
+      "C": "Hold the resident's hand and move it through every cut",
+      "D": "Set up the trained device and allow the resident time to use it"
+    },
+    "correct": "D",
+    "explanation": "The rocker knife is an established adaptation for independent meal preparation. Proper setup and adequate time preserve the resident's skill.",
+    "domain": "Physical Care Skills",
+    "category": "Self Care/Independence",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "A resident has been trained to use a rocker knife for one-handed meal cutting."
+  },
+  {
+    "id": "CNA07-022",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Support the resident, stop participating in the ridicule, and report the behavior",
+      "B": "Repeat the imitation only when the resident is not present",
+      "C": "Tell the resident to change the accent to avoid teasing",
+      "D": "Ask other residents whether the joke seems harmless"
+    },
+    "correct": "A",
+    "explanation": "Residents have a right to dignity and respectful treatment. Mocking a resident's accent is inappropriate even if others call it a joke.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Client Rights",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A staff member imitates a resident's accent to make coworkers laugh."
+  },
+  {
+    "id": "CNA07-023",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Tighten the hardware with tools from the maintenance cart",
+      "B": "Keep residents away from the unsafe section and report it promptly",
+      "C": "Mark the rail with a towel and continue using it",
+      "D": "Test the rail by pulling on it with full body weight"
+    },
+    "correct": "B",
+    "explanation": "A loose handrail can cause a fall. The aide protects residents and reports the defect instead of attempting an unauthorized repair or test.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "The nurse aide notices that a corridor handrail moves away from the wall when touched."
+  },
+  {
+    "id": "CNA07-024",
+    "prompt": "Which question best encourages a resident to describe a comfort need?",
+    "choices": {
+      "A": "\"You are comfortable now, aren't you?\"",
+      "B": "\"What would make you more comfortable?\"",
+      "C": "\"Should I choose what is best for you?\"",
+      "D": "\"Does your roommate think you need help?\""
+    },
+    "correct": "B",
+    "explanation": "An open, neutral question invites the resident to describe a need in the resident's own words. Leading questions and roommate opinions can limit or replace the resident's response.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Communication",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-025",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Top off yesterday's water without washing the cup",
+      "B": "Exchange cups with the roommate to save time",
+      "C": "Clean the cup as directed and refill it with fresh water",
+      "D": "Leave the cup empty until the resident asks twice"
+    },
+    "correct": "C",
+    "explanation": "Routine cleaning and fresh water support hygiene and hydration. Topping off old water or sharing cups can spread contamination.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident's labeled bedside water cup is due for routine cleaning and refill, and fluids are permitted."
+  },
+  {
+    "id": "CNA07-026",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Wrap tape around the buckle and complete the transfer",
+      "B": "Hold the cracked buckle shut with one hand",
+      "C": "Use the belt only if the resident is lightweight",
+      "D": "Remove the belt from use and obtain safe equipment"
+    },
+    "correct": "D",
+    "explanation": "A cracked buckle may fail during transfer. Improvised repair or continued use places the resident and staff at risk.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "Before a planned transfer, the nurse aide sees that the gait belt buckle is cracked."
+  },
+  {
+    "id": "CNA07-027",
+    "prompt": "What is the nurse aide's best response?",
+    "choices": {
+      "A": "Insist that the sound cannot be upsetting because it is only a test",
+      "B": "Question the resident in detail while the alarm continues",
+      "C": "Stay calm, reduce stimulation when possible, explain current safety, and report the reaction",
+      "D": "Leave the resident alone so the response receives no attention"
+    },
+    "correct": "C",
+    "explanation": "A calm, trauma-informed response promotes immediate safety without argument or forced disclosure. Reporting helps the team plan future support.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Emotional and Mental Health Needs",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A test of the building alarm causes a resident with a trauma history to freeze and tremble."
+  },
+  {
+    "id": "CNA07-028",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Offer another safe clothing choice and protect the resident's ownership of the shirt",
+      "B": "Cut the tag out without asking the resident",
+      "C": "Tell the resident to tolerate the shirt until bedtime",
+      "D": "Turn the shirt inside out and require the resident to wear it"
+    },
+    "correct": "A",
+    "explanation": "The aide addresses discomfort while preserving choice and personal property. Clothing should not be altered without the resident's permission.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident says the tag in a clean shirt scratches the neck and asks for something else to wear."
+  },
+  {
+    "id": "CNA07-029",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Add tap water equal to the estimated amount",
+      "B": "Continue the collection and hide the missed void",
+      "C": "Notify the nurse promptly and follow directions for the collection",
+      "D": "Ask the resident to guess the amount for the record"
+    },
+    "correct": "C",
+    "explanation": "A missed void can invalidate a timed collection. The aide reports the gap rather than estimating, concealing, or adding liquid.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "During a timed 24-hour urine collection, the resident reports that one void was accidentally flushed."
+  },
+  {
+    "id": "CNA07-030",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Say that residents may speak only with facility staff",
+      "B": "Call the physician and provide a diagnosis independently",
+      "C": "Relay the request to the nurse and help follow the approved contact process",
+      "D": "Require a family member to approve the request first"
+    },
+    "correct": "C",
+    "explanation": "Residents may request communication with a chosen provider. The aide facilitates the request without diagnosing or requiring family approval.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Client Rights",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "A resident asks for help contacting the resident's chosen physician about a concern."
+  },
+  {
+    "id": "CNA07-031",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Relay the message to the nurse and await confirmed directions",
+      "B": "Discard the container and remove the order from the chart",
+      "C": "Tell the resident the test result was normal",
+      "D": "Ask the laboratory caller to assign a different test"
+    },
+    "correct": "A",
+    "explanation": "The nurse aide communicates the laboratory message but does not independently cancel orders or discard supplies. Confirmed team directions prevent errors.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Member of the Health Care Team",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A laboratory caller tells the nurse aide that a planned specimen collection has been canceled. A labeled collection container is already in the resident's room."
+  },
+  {
+    "id": "CNA07-032",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Add an extension cord so the appliances can be separated",
+      "B": "Cover the power strip with a blanket to protect the plugs",
+      "C": "Keep the resident away from the hazard and report it for safe correction",
+      "D": "Unplug any active medical device without notifying the nurse"
+    },
+    "correct": "C",
+    "explanation": "An overloaded power strip creates fire and electrical risk. The aide protects the resident and obtains appropriate correction without altering active medical equipment.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "Several personal appliances are connected to one overloaded power strip beside a resident's chair."
+  },
+  {
+    "id": "CNA07-033",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Select the faster method without discussion",
+      "B": "Alternate methods by staff schedule only",
+      "C": "Ask the roommate which method is more convenient",
+      "D": "Explain the available choices and honor the resident's selection"
+    },
+    "correct": "D",
+    "explanation": "When both methods are permitted, the resident may choose. Staff convenience does not replace participation in daily care decisions.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident's care directions permit either a shower or a bed bath, and the resident asks to choose today."
+  },
+  {
+    "id": "CNA07-034",
+    "prompt": "How should the nurse aide help?",
+    "choices": {
+      "A": "Fill a large pitcher to the top",
+      "B": "Pour every drink before the resident reaches for the pitcher",
+      "C": "Fill the small pitcher to the planned level and allow the resident to pour",
+      "D": "Remove the pitcher and offer water only at meals"
+    },
+    "correct": "C",
+    "explanation": "Limiting the pitcher to the planned weight lets the resident use an existing pouring ability. Overfilling or taking over would reduce safe independence.",
+    "domain": "Physical Care Skills",
+    "category": "Self Care/Independence",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident can pour drinking water independently when a small pitcher is filled only to the level specified in the restorative plan."
+  },
+  {
+    "id": "CNA07-035",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Cover the red band with another stocking",
+      "B": "Pull the rolled section tighter so it stays in place",
+      "C": "Massage the red area before continuing care",
+      "D": "Stop, protect the skin, and report the finding to the nurse"
+    },
+    "correct": "D",
+    "explanation": "A rolled stocking can create harmful pressure, and a red band is a skin change. The aide stops the problem and reports rather than adding pressure or massage.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "An antiembolism stocking has bunched into a tight roll and left a red band on a resident's leg."
+  },
+  {
+    "id": "CNA07-036",
+    "prompt": "What should the nurse aide do before beginning care?",
+    "choices": {
+      "A": "Grab both hands without warning",
+      "B": "Use the agreed cue and wait for the resident's response",
+      "C": "Shout the resident's name from behind",
+      "D": "Ask the roommate to signal the resident"
+    },
+    "correct": "B",
+    "explanation": "The established tactile cue identifies the caregiver in an accessible, predictable way. Grabbing, shouting from behind, or using a roommate can startle or exclude the resident.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Communication",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident who is deaf-blind uses an established hand-touch cue to know when a caregiver is present."
+  },
+  {
+    "id": "CNA07-037",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Open the curtains fully in one quick motion",
+      "B": "Keep the room dark for the entire day",
+      "C": "Open the curtains gradually and allow the resident's eyes to adjust",
+      "D": "Ask the roommate to decide how much light enters"
+    },
+    "correct": "C",
+    "explanation": "Gradual light exposure supports the resident's comfort after waking. Staff should follow the resident's request rather than force sudden light or let a roommate decide.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "A resident who has just awakened asks for the window curtains to be opened slowly because sudden bright light is uncomfortable."
+  },
+  {
+    "id": "CNA07-038",
+    "prompt": "What should a nurse aide do before using a facility disinfectant?",
+    "choices": {
+      "A": "Mix it with another product to increase its strength",
+      "B": "Check the label and date and follow the product directions",
+      "C": "Use it after the expiration date if the odor remains strong",
+      "D": "Transfer it into an unlabeled spray bottle"
+    },
+    "correct": "B",
+    "explanation": "Disinfectants must be identifiable, current, and used as directed. Mixing products or using unlabeled or expired chemicals is unsafe.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-039",
+    "prompt": "What is the nurse aide's best response?",
+    "choices": {
+      "A": "Tell the resident that fear is unreasonable now",
+      "B": "Walk away until the resident agrees to participate",
+      "C": "Listen, follow the gradual safety plan, and report fear that limits participation",
+      "D": "Guarantee that another fall cannot occur with staff present"
+    },
+    "correct": "C",
+    "explanation": "Fear after a fall can persist after physical recovery. Listening and using the current graded plan support confidence without arguing or guaranteeing outcomes.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Emotional and Mental Health Needs",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident who has recovered physically from a fall says, \"I am too afraid to walk again,\" despite a current supervised walking plan."
+  },
+  {
+    "id": "CNA07-040",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Protect the resident and report the proposed seclusion immediately",
+      "B": "Lock the door for ten minutes to teach quieter behavior",
+      "C": "Ask other residents to vote on the punishment",
+      "D": "Move the resident's call light outside the locked room"
+    },
+    "correct": "A",
+    "explanation": "Isolation as punishment violates resident rights and can cause harm. The aide safeguards the resident and reports the concern promptly.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Client Rights",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A staff member suggests locking a resident alone in the room as punishment for shouting."
+  },
+  {
+    "id": "CNA07-041",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Scrape the patches with a sharp object",
+      "B": "Apply another resident's medicated mouth rinse",
+      "C": "Observe the appearance and report it promptly",
+      "D": "Tell the resident that a yeast infection is confirmed"
+    },
+    "correct": "C",
+    "explanation": "New white oral patches are an abnormal observation requiring reporting. The aide does not scrape tissue, share medication, or diagnose the cause.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "During mouth care, the nurse aide sees new white patches on the resident's tongue and inner cheeks that do not wipe away gently."
+  },
+  {
+    "id": "CNA07-042",
+    "prompt": "Which action promotes comfort and skin protection?",
+    "choices": {
+      "A": "Smooth the socks so the fabric is dry and free of wrinkles",
+      "B": "Roll the socks into tight bands above the ankles",
+      "C": "Leave a damp sock on because walking will dry it",
+      "D": "Place small objects inside the socks to improve traction"
+    },
+    "correct": "A",
+    "explanation": "Dry, smooth socks reduce friction, pressure, and moisture against the skin. Tight rolls, damp fabric, and objects can cause injury.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "The nurse aide is helping a resident put on clean socks before walking."
+  },
+  {
+    "id": "CNA07-043",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Cancel all hygiene without telling residents or the nurse",
+      "B": "Fill unlabeled containers from an unapproved source",
+      "C": "Tell residents that housekeeping caused the entire problem",
+      "D": "Notify the nurse and coordinate safe supplies or timing with the team"
+    },
+    "correct": "D",
+    "explanation": "Planned service interruptions require team coordination so hygiene can continue safely. The aide does not use unapproved water or cancel care silently.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Member of the Health Care Team",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "Housekeeping announces a planned water shutoff during the time several residents usually receive morning hygiene."
+  },
+  {
+    "id": "CNA07-044",
+    "prompt": "What should a nurse aide do about a floor mat whose edge has curled upward in a walking path?",
+    "choices": {
+      "A": "Remove or block the hazard and report it for correction",
+      "B": "Place a chair over one corner and leave the rest exposed",
+      "C": "Ask residents to step over the raised edge",
+      "D": "Turn off the hallway lights so the edge is less noticeable"
+    },
+    "correct": "A",
+    "explanation": "A curled mat edge is a trip hazard. Immediate protection and reporting prevent falls while an appropriate repair or replacement is arranged.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": true,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-045",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Say that meal times always override personal practices",
+      "B": "Choose a different prayer time for the resident",
+      "C": "Honor the request and coordinate the safe meal timing",
+      "D": "Ask another resident whether the practice is necessary"
+    },
+    "correct": "C",
+    "explanation": "A brief individual spiritual practice should be accommodated when the meal can be held safely. Staff do not judge or reschedule the resident's belief.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Spiritual and Cultural Needs",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident asks whether supper can be served a few minutes later so the resident can complete a brief sunset prayer. The meal can be held safely."
+  },
+  {
+    "id": "CNA07-046",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Say that staff have already decided the hair looks fine",
+      "B": "Photograph the resident without permission",
+      "C": "Position the mirror so the resident can inspect the style and request changes",
+      "D": "Ask the roommate to describe the hairstyle instead"
+    },
+    "correct": "C",
+    "explanation": "The mirror lets the resident evaluate personal appearance and direct grooming. Staff or roommates should not replace the resident's preference.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "After grooming, a resident asks to see the back of the hairstyle in a handheld mirror."
+  },
+  {
+    "id": "CNA07-047",
+    "prompt": "What should the nurse aide do first?",
+    "choices": {
+      "A": "Move the resident away and activate the emergency procedure",
+      "B": "Turn every light on to locate the source",
+      "C": "Start an electric fan beside the resident",
+      "D": "Strike a match to confirm whether gas is present"
+    },
+    "correct": "A",
+    "explanation": "A gas odor may signal an explosive hazard. The aide moves the resident away, avoids ignition sources, and activates the emergency response.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "The nurse aide smells a strong odor like natural gas in a resident's room."
+  },
+  {
+    "id": "CNA07-048",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Accept if no health information is discussed",
+      "B": "Use a second account with a different name",
+      "C": "Let a coworker manage the messages",
+      "D": "Maintain professional boundaries and follow facility policy"
+    },
+    "correct": "D",
+    "explanation": "Private online relationships can blur professional boundaries even after discharge. The aide should follow employer policy and avoid secret or alternate accounts.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Legal and Ethical Behavior",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident asks the nurse aide to accept a social-media friend request and continue private conversations after discharge."
+  },
+  {
+    "id": "CNA07-049",
+    "prompt": "How should the nurse aide assist?",
+    "choices": {
+      "A": "Turn every page before the resident tries",
+      "B": "Remove the device when reading is slow",
+      "C": "Ask a visitor to hold the book for every session",
+      "D": "Position the book and device as planned and allow time for use"
+    },
+    "correct": "D",
+    "explanation": "Proper setup lets the resident continue an established independent reading skill. Speed does not justify taking over the activity.",
+    "domain": "Physical Care Skills",
+    "category": "Self Care/Independence",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident with limited hand movement uses a trained page-turning device to read independently."
+  },
+  {
+    "id": "CNA07-050",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Pretend to understand and begin the usual routine",
+      "B": "Ask another resident to guess the meaning",
+      "C": "Ask the resident to explain the expression in another way",
+      "D": "Ignore the request because the wording is unfamiliar"
+    },
+    "correct": "C",
+    "explanation": "Honest clarification prevents incorrect care and respects the resident as the source of meaning. Guessing or ignoring can misrepresent the request.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Communication",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident uses a regional expression that the nurse aide does not understand while requesting care."
+  },
+  {
+    "id": "CNA07-051",
+    "prompt": "How should a bathroom emergency pull cord be positioned?",
+    "choices": {
+      "A": "Tied around a grab bar above shoulder height",
+      "B": "Hanging freely where a person near the floor can reach it",
+      "C": "Shortened so it does not touch the wall",
+      "D": "Wrapped around the call-light fixture"
+    },
+    "correct": "B",
+    "explanation": "An accessible pull cord allows a person who has fallen or lowered to the floor to call for help. Tying, shortening, or wrapping it can make it unreachable.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-052",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Soak the insert in hot bleach water",
+      "B": "Place it in the resident's left shoe after rinsing",
+      "C": "Wipe and dry it as directed, then return it to the right shoe",
+      "D": "Discard the insert whenever the surface looks dusty"
+    },
+    "correct": "C",
+    "explanation": "Following the established cleaning method preserves the insert and its correct side placement. Bleach, side switching, or unnecessary disposal can make it unsafe or unusable.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "A removable insert from a resident's right shoe needs routine care according to the established directions."
+  },
+  {
+    "id": "CNA07-053",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Announce only the resident's age",
+      "B": "Ask the tablemates whether the announcement is acceptable",
+      "C": "Post the date outside the room instead",
+      "D": "Honor the privacy request and share it only as needed"
+    },
+    "correct": "D",
+    "explanation": "A resident controls whether personal information is publicly celebrated. Age, date, and room posting are not substitutes for consent.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Client Rights",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident asks staff not to announce the resident's birthday during a public dining-room celebration."
+  },
+  {
+    "id": "CNA07-054",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Press firmly on the lower abdomen",
+      "B": "Keep the resident safe and report the problem promptly",
+      "C": "Insert a urinary catheter without an order",
+      "D": "Wait until the next shift before mentioning it"
+    },
+    "correct": "B",
+    "explanation": "Inability to urinate with increasing lower-abdominal discomfort requires prompt nursing assessment. The aide does not press the abdomen, insert a catheter, or delay reporting.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident says, \"I need to urinate, but I cannot,\" and reports increasing lower-abdominal discomfort."
+  },
+  {
+    "id": "CNA07-055",
+    "prompt": "What is the nurse aide's best response?",
+    "choices": {
+      "A": "Rewrite the note without asking and discard the original",
+      "B": "Compare the writing with another resident's work",
+      "C": "Acknowledge the frustration, note the resident's effort, and offer support without taking over",
+      "D": "Say that handwriting is unimportant and change the subject"
+    },
+    "correct": "C",
+    "explanation": "Specific, respectful support protects self-esteem and remaining ability. Comparison, dismissal, or automatic takeover can deepen discouragement.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Emotional and Mental Health Needs",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident looks at a shaky handwritten note and says, \"I cannot do anything right anymore.\""
+  },
+  {
+    "id": "CNA07-056",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Reduce the amount for one meal as a trial",
+      "B": "Let the resident choose the thickness without notifying anyone",
+      "C": "Ask the roommate which consistency seems safe",
+      "D": "Follow current directions and relay the concern to the care team"
+    },
+    "correct": "D",
+    "explanation": "Drink consistency is a safety direction that the aide does not change independently. The concern should be communicated so the responsible team can review it.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Member of the Health Care Team",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A dietary employee asks the nurse aide to reduce the thickener in a resident's drinks because the resident dislikes the texture. Current care directions have not changed."
+  },
+  {
+    "id": "CNA07-057",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Observe and report the change to the nurse",
+      "B": "Massage both ankles until the swelling disappears",
+      "C": "Restrict all fluids without an order",
+      "D": "Diagnose the resident with heart failure"
+    },
+    "correct": "A",
+    "explanation": "New ankle swelling is a change from baseline that requires reporting. The aide does not diagnose, massage, or restrict fluids independently.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "By the end of the shift, a resident has new swelling around both ankles."
+  },
+  {
+    "id": "CNA07-058",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Wipe only the outside and return it while wet",
+      "B": "Clean and dry it according to directions before storage",
+      "C": "Place it in another resident's cup to rinse it",
+      "D": "Store it inside the used meal napkin"
+    },
+    "correct": "B",
+    "explanation": "Proper cleaning and drying of a reusable straw limit residue and contamination. It should not be shared or stored with used meal items.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "After a meal, a resident asks the nurse aide to clean a reusable drinking straw listed among the resident's personal supplies."
+  },
+  {
+    "id": "CNA07-059",
+    "prompt": "A resident hears better with the left ear. Where should the nurse aide position themself during conversation?",
+    "choices": {
+      "A": "Behind the resident on the right",
+      "B": "Across the room with the lights off",
+      "C": "Near the resident's left side while keeping the face visible",
+      "D": "Directly behind the resident's chair"
+    },
+    "correct": "C",
+    "explanation": "Positioning near the better-hearing ear and remaining visible improves access to speech and facial cues. Speaking from behind creates a barrier.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Communication",
+    "unscored": true,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-060",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Apply a medicated cream from another resident's drawer",
+      "B": "Observe the area and report the new skin change",
+      "C": "Cover the rash with the same adhesive patch",
+      "D": "Scratch the area through a towel to reduce itching"
+    },
+    "correct": "B",
+    "explanation": "A new itchy rash after adhesive contact should be reported for assessment. The aide does not use another resident's medication, reapply the irritant, or scratch the skin.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A new red, itchy rash appears where an adhesive monitoring patch was removed."
+  },
+  {
+    "id": "CNA07-061",
+    "prompt": "How should the nurse aide assist?",
+    "choices": {
+      "A": "Replace it with a full open glass",
+      "B": "Place the cup within reach for independent use",
+      "C": "Hold both handles throughout every sip",
+      "D": "Pour the drink into a bowl and use a spoon"
+    },
+    "correct": "B",
+    "explanation": "The adapted cup supports independent drinking. Proper placement and time allow the resident to use retained ability safely.",
+    "domain": "Physical Care Skills",
+    "category": "Self Care/Independence",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident has been trained to drink independently from a lightweight two-handled cup."
+  },
+  {
+    "id": "CNA07-062",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Provide the directed soft brush and allow careful cleaning around the braces",
+      "B": "Use a sharp object to remove material beneath the wires",
+      "C": "Skip oral care because braces protect the teeth",
+      "D": "Share another resident's toothbrush if the bristles are softer"
+    },
+    "correct": "A",
+    "explanation": "Braces do not eliminate the need for mouth care. A directed soft brush supports safe cleaning without sharp tools or shared supplies.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident with dental braces needs routine mouth care and can brush with setup."
+  },
+  {
+    "id": "CNA07-063",
+    "prompt": "If a chemical spill procedure directs staff to use the product's Safety Data Sheet, what should the nurse aide do?",
+    "choices": {
+      "A": "Smell the spill closely to identify the chemical",
+      "B": "Follow the procedure and consult the Safety Data Sheet as directed",
+      "C": "Mix the chemical with bleach before cleanup",
+      "D": "Wipe the spill with bare hands before reading instructions"
+    },
+    "correct": "B",
+    "explanation": "The Safety Data Sheet provides product-specific hazard and response information. Smelling, mixing, or bare-hand cleanup can increase exposure.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": false
+  },
+  {
+    "id": "CNA07-064",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Let the coworker provide care while being watched by residents",
+      "B": "Give the coworker coffee and wait until the shift ends",
+      "C": "Post a video of the behavior for other staff",
+      "D": "Protect residents and report the concern immediately through the proper chain"
+    },
+    "correct": "D",
+    "explanation": "Signs of impairment create an immediate safety concern. The aide protects residents and escalates through supervision instead of concealing or publicizing the situation.",
+    "domain": "Role of the Nurse Aide",
+    "category": "Legal and Ethical Behavior",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A coworker arrives for a resident-care assignment with slurred speech, an unsteady gait, and an odor of alcohol."
+  },
+  {
+    "id": "CNA07-065",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Stop using the cabinet supplies and report the pest promptly",
+      "B": "Brush the insect away and continue distributing the supplies",
+      "C": "Spray the cabinet with a resident's deodorant",
+      "D": "Move the supplies to resident rooms without checking them"
+    },
+    "correct": "A",
+    "explanation": "A pest in a clean-supply cabinet may contaminate stored items. The aide stops distribution and reports the problem rather than brushing it aside or using an unapproved spray.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": true,
+    "scenarioBased": true,
+    "scenarioContext": "The nurse aide sees an insect moving inside a cabinet used for clean resident-care supplies."
+  },
+  {
+    "id": "CNA07-066",
+    "prompt": "What is the nurse aide's best response?",
+    "choices": {
+      "A": "Listen without ridicule, discuss the resident's concern, and report continued device avoidance",
+      "B": "Put the hearing aids on the resident without permission",
+      "C": "Tell the group why the resident is embarrassed",
+      "D": "Say that the concern is silly because many people use hearing aids"
+    },
+    "correct": "A",
+    "explanation": "The aide explores the resident's self-image concern respectfully without forcing the device or exposing the resident publicly. Ongoing avoidance should be reported.",
+    "domain": "Psychosocial Care Skills",
+    "category": "Emotional and Mental Health Needs",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident hides hearing aids before a group event and says, \"People will think I am old if they see these.\""
+  },
+  {
+    "id": "CNA07-067",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Scrape the polish with a sharp metal tool",
+      "B": "Add several new coats over the chipped polish",
+      "C": "Use the resident's labeled remover as directed and protect the surrounding skin",
+      "D": "Borrow another resident's remover without permission"
+    },
+    "correct": "C",
+    "explanation": "A permitted personal product should be used according to directions while avoiding unnecessary skin exposure. Sharp tools and shared products are unsafe.",
+    "domain": "Physical Care Skills",
+    "category": "Activities of Daily Living",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident asks for help removing chipped nail polish, and routine polish removal is permitted in the care directions."
+  },
+  {
+    "id": "CNA07-068",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Turn it off if safe, protect the resident, and report the hazard",
+      "B": "Cover the heater with a towel to contain the heat",
+      "C": "Add an extension cord so the heater can remain on",
+      "D": "Move the resident's oxygen equipment closer to the heater"
+    },
+    "correct": "A",
+    "explanation": "A heater against a curtain creates an immediate fire hazard. The aide acts only if it is safe, protects the resident, and reports the problem rather than covering or extending the setup.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "An unattended portable space heater is operating against a window curtain in a resident's room."
+  },
+  {
+    "id": "CNA07-069",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Turn off the lights and wait for the symptom to pass",
+      "B": "Keep the resident safe and notify the nurse immediately",
+      "C": "Rub the closed eye through a warm towel",
+      "D": "Ask the resident to walk to the window for a vision test"
+    },
+    "correct": "B",
+    "explanation": "Sudden flashes and a curtain-like vision change may be an eye emergency. The aide maintains safety and seeks immediate nursing response without testing or rubbing the eye.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "A resident suddenly reports flashes of light and a dark curtain moving across part of the vision."
+  },
+  {
+    "id": "CNA07-070",
+    "prompt": "What should the nurse aide do?",
+    "choices": {
+      "A": "Observe the change and report it promptly to the nurse",
+      "B": "Apply skin lotion to cover the color",
+      "C": "Tell the resident that liver disease is confirmed",
+      "D": "Wait several days to see whether the color fades"
+    },
+    "correct": "A",
+    "explanation": "New yellowing of the skin and eye whites is an abnormal change that requires prompt reporting. The aide reports objective findings without masking, diagnosing, or delaying.",
+    "domain": "Physical Care Skills",
+    "category": "Basic Nursing Skills",
+    "unscored": false,
+    "scenarioBased": true,
+    "scenarioContext": "The nurse aide notices new yellow coloring in a resident's skin and the whites of the eyes."
+  }
+]
